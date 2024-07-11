@@ -1,6 +1,6 @@
 import "./About.css";
 import Navbar from "./Navbar";
-import myImage from "./img/pic.jpg"
+import myImage from "./img/fj 1.jpg"
 
 const About = () => {
   return (
@@ -23,12 +23,12 @@ const About = () => {
               <div className="col-lg-8">
                 <div className="card box shadow mb-3 p-3">
                 <h4 className="text-dark"><span>About Me</span></h4>
-              <p className="text-black"> Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups. </p>
+              <p className="text-black"> I am Ferie john Emborniza 28 years old and i love playing basketball,soft ball and volleyball. Believing that there is no challenge more challenging than the challenge to improve myself. </p>
           
                 </div>
                 <div className="card box shadow p-3">
-                <h4 className="text-dark"><span>Lorem</span> </h4>
-              <p className="text-black"> Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+                <h4 className="text-dark"><span>Jeremiah 29:11</span> </h4>
+              <p className="text-black"> For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future.</p>
               <p> </p>
                 </div>
               </div>

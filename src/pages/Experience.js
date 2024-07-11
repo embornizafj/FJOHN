@@ -23,7 +23,7 @@ const Experience = () => {
             <hr />
           <div className="col-lg-4">
           <img className="two" src={PC1Image} />
-          <h4 className="three text-white">Get the serial number of printer</h4>
+          <h4 className="three text-white">Get the serial number of printers</h4>
           </div>
           <div className="col-lg-4">
           <img className="one" src={PC2Image} />
